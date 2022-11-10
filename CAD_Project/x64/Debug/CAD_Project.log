@@ -1,0 +1,14 @@
+﻿  main.cpp
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(160,36): warning C4305: “参数”: 从“double”到“float”截断
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(163,87): warning C4305: “参数”: 从“double”到“float”截断
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(164,88): warning C4305: “参数”: 从“double”到“float”截断
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(165,87): warning C4305: “参数”: 从“double”到“float”截断
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(177,87): warning C4305: “参数”: 从“double”到“float”截断
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(178,87): warning C4305: “参数”: 从“double”到“float”截断
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(179,88): warning C4305: “参数”: 从“double”到“float”截断
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(180,89): warning C4305: “参数”: 从“double”到“float”截断
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(213,56): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(256,55): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(401,25): warning C4244: “=”: 从“LPARAM”转换到“INT”，可能丢失数据
+E:\study\CAD\CAD_Project\CAD_Project\main.cpp(463,29): warning C4244: “=”: 从“LRESULT”转换到“LONG”，可能丢失数据
+  CAD_Project.vcxproj -> E:\study\CAD\CAD_Project\x64\Debug\CAD_Project.exe
